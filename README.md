@@ -22,6 +22,6 @@ For information about MicroDegree, visit [microdegree.work](https://www.microdeg
 
 Explore MicroDegree e-learning, an online learning platform with technology courses you can learn at your own pace.
 
-Discover courses, strengthen your practical knowledge, and continue learning beyond this Azure interview guide.
+Discover courses, strengthen your practical knowledge, and continue learning beyond this AWS interview guide.
 
 Explore the e-learning platform and get started with free learning: https://www.microdegree.work/tech-courses
