@@ -14,7 +14,7 @@ Use the standard questions to revise AWS fundamentals, the scenario questions to
 
 ## About
 
-This guide was adapted from the *AWS Standard and Scenario-Based Interview Q&A* PDF provided by MicroDegree. Grammar, punctuation, and formatting have been cleaned up. Review the technical content before publishing and update it as AWS services evolve.
+This guide was adapted from the *AWS Standard and Scenario-Based Interview Q&A* PDF provided by MicroDegree.
 
 For information about MicroDegree, visit [microdegree.work](https://www.microdegree.work/).
 
@@ -24,4 +24,4 @@ Explore MicroDegree e-learning, an online learning platform with technology cour
 
 Discover courses, strengthen your practical knowledge, and continue learning beyond this Azure interview guide.
 
-Explore the e-learning platform and get started with free learning: https://www.microdegree.work/learning
+Explore the e-learning platform and get started with free learning: https://www.microdegree.work/tech-courses
