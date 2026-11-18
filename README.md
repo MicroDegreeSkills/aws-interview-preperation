@@ -18,10 +18,19 @@ This guide was adapted from the *AWS Standard and Scenario-Based Interview Q&A* 
 
 For information about MicroDegree, visit [microdegree.work](https://www.microdegree.work/).
 
-## Want to keep building your tech skills?
+## Want to Keep Building Your Tech Skills?
 
-Explore MicroDegree e-learning, an online learning platform with technology courses you can learn at your own pace.
+Explore **MicroDegree E-Learning**, a Kannada-first online learning platform offering technology courses that you can access and complete at your own pace.
 
-Discover courses, strengthen your practical knowledge, and continue learning beyond this AWS interview guide.
+Discover courses in AWS, Cloud Computing, DevOps, Kubernetes, Generative AI and more. Strengthen your practical knowledge and continue learning beyond this AWS interview guide.
 
-Explore the e-learning platform and get started with free learning: https://www.microdegree.work/tech-courses
+- Learn advanced technologies in Kannada.
+- Access structured, self-paced online courses.
+- Build skills in in-demand technology domains.
+
+**Explore MicroDegree E-Learning:**  
+https://www.microdegree.work/tech-courses
+
+**Special Offer:** Use coupon code `TECH100` at checkout to avail the available discount.
+
+Start learning today with MicroDegree!
